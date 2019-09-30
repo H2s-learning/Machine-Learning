@@ -1,4 +1,4 @@
-Classificadores
+Aplicação simples de Classificadores
 
  - Naive Bayes
  
